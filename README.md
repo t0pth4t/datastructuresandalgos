@@ -6,3 +6,5 @@ With this project I want to try to take those data structures and algorithms tha
 
 For example, I never use Linked Lists directly or Binary Search Trees but they are fundamental to CS (and coding interviews), so why not try to understand them better by writing some weird app that actually uses them.
 
+Also learn pythong along the way
+
